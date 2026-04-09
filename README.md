@@ -87,6 +87,4 @@ Visual analysis was performed using Matplotlib and Seaborn to identify patterns 
 - Enables data-driven decision-making for production planning  
 - Provides insights into audience preferences and trends  
 
-cd netflix-data-analysis-python
-pip install -r requirements.txt
-jupyter notebook
+
